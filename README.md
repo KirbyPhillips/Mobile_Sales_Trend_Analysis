@@ -259,7 +259,7 @@ This analysis covers the full scope of the 2024 dataset as it was provided. Look
 The interactive dashboard of this project can be viewed [here](https://bit.ly/3Ptw2XS).   
 The 2 page business report can be found [here](./Mobile%20Sales%20Business%20Report.pdf).
 
-For any inquiries, email me: kirby@primepeakinsights.com
+For any inquiries, email me: kphillips.za@gmail.com
 
 ---
 
@@ -267,5 +267,5 @@ For any inquiries, email me: kirby@primepeakinsights.com
 
 **Kirby Phillips**
 
-BI Developer | Data Analyst [LinkedIn](https://www.linkedin.com/in/kirbykphillips/)
+Data Consultant | [LinkedIn](https://www.linkedin.com/in/kirbykphillips/)
 
