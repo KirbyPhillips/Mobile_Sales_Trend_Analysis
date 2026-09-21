@@ -263,9 +263,7 @@ The 2 page business report can be found [here](./Mobile%20Sales%20Business%20Rep
 
 ## Author
 
-**Kirby Phillips**
-
-Data Consultant | BI & Data Science
+**Kirby Phillips** | Data Consultant
 
 For any inquiries, contact me: 
 
